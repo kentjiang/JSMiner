@@ -4,8 +4,6 @@ An experiment with in-browser distributed bitcoin mining.
 * Howard Chung
 * Kent Jiang
 
-https://github.com/howardc93/jsminer
-
 About
 ----
 
